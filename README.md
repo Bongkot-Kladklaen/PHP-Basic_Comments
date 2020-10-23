@@ -20,8 +20,6 @@ Example web application page
 ## Technologies
 Project is created with:
 - [php >= 7](https://www.php.net/)
-- [Bootstrap 4](https://getbootstrap.com/)
-
 
 ## Setup
 To clone this project, you need [Git](https://git-scm.com) to install on your computer. command line below:
